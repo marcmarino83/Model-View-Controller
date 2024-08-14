@@ -1,0 +1,9 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "password@123",
+      "database": "TechBlog_db",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
